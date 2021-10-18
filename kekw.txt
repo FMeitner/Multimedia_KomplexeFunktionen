@@ -1,6 +1,0 @@
-# Multimedia Projekt 2021 [^1]
-##OpenGL - Phasenportraits komplexer Funktionen
-
-
-
-[1]: Siobhan Hönig, Fritz Meitner

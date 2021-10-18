@@ -1,0 +1,27 @@
+# Multimedia Projekt 2021
+## OpenGL - Phasenportraits komplexer Funktionen
+
+![Example picture](https://www.mathematik.de/images/Blog/Bilder/Figure1.png)
+[PictureSource](https://www.mathematik.de/dmv-blog/1668-komplexe-sch%C3%B6nheiten)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@FMeitner 
+@Siobhan28
