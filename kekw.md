@@ -1,4 +1,4 @@
-# Multimedia Projekt 2021
+# Multimedia Projekt 2021[^1]
 ## OpenGL - Phasenportraits komplexer Funktionen
 
 ![Example picture](https://www.mathematik.de/images/Blog/Bilder/Figure1.png)
@@ -21,7 +21,7 @@
 
 
 
-
+[^1]:Sommersemester 2021 
 
 @FMeitner 
 @Siobhan28
