@@ -1067,9 +1067,11 @@ OUTPUT d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.p
 INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 OUTPUT d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.toc
 INPUT d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.aux
 INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb
