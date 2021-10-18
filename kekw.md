@@ -21,7 +21,7 @@
 
 
 
-[^1]:Sommersemester 2021 
+[^1]:Sommersemester 2021 :eyes:
 
 @FMeitner 
 @Siobhan28
