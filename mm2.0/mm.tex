@@ -48,8 +48,10 @@
     tabsize=2
 }
 
-\newcommand\blueColor[1]{\color{niceBlue}#1}
 \newcommand{\lstin}[1]{\lstinline[language=C]{#1}}
+
+\renewcommand{\abstractname}{Summary}
+
 
 \renewcommand\maketitlehooka{\null\mbox{}\vfill}
 \renewcommand\maketitlehookd{\vfill\null}
@@ -66,39 +68,62 @@
 \linespread{1.2}
 
 %deckblatt 
-\title{\textbf{Multimedia Projekt: Komplexe Funktionen}}
-\author{Siobhan-Lillian Hönig & Fritz Meitner}
+\title{\textbf{Multimedia Projekt: OpenGL Phasenportraits komplexer Zahlen}}
+\author{Siobhan-Lillian Hönig || Fritz Meitner}
 \date{\today}
 
+\makeglossaries
+\newglossaryentry{Test}{
+    name={test},
+    description={test}}
+
+
+
 \lstset{style=ColorStyle}
+
 
 \begin{document}
     
 \begin{titlepage}
-\maketitle
+    \maketitle
 \end{titlepage}
-
 \pagebreak
-\section{Einleitung}
-Heutzutage werden wir alltäglich mit Graphen konfrontiert, sei es die Darstellung von in unseren heutigen zeit Geimpften gegen Covid oder simpel die Population von füchsen in Deutschland. Aber auch Funktionen wie der Logarithmus können im Graphen dargestellt werden.
-Meistens werden jedoch die Funktionen "simpel und einfach" dargestellt und wirken leblos. Anhand von komplexen Zahlen wird der allgemeine Zahlenbereich erweitert und der imaginare Teil wird eingeführt. Im kapitel \ref{Com} wird dies noch genauer erklärt. 
-Um diese Zahlen genauer darstellen zu können, kann die sogenannte Domain Coloring Methode angewendet werden. Diese ermöglicht es die komplexen Zahlen farblich darzustellen. In der folgenden Seminararbeit wird diese Methode genutzt und mithilfe von OpenGL dargestellt.
-
-
-\section{Komplexe Zahlen} \label{Com}
-Komplexe Zahlen erweitern die möglichen Lösungen der 
-\section{OpenGL}
-
-\section{Domain Coloring}
-
-\section{fazit}
-
 
 \pagebreak
 \tableofcontents
 \pagebreak
 
 
+\glsaddall
+\printglossary[title=Special terms, toctitle=List of terms]
+\pagebreak
+
+\section{Einleitung}
+In der Schule als auch Im Studium, werden viele Funktionen und Zahlen definiert und erklärt. 
+Wenn zum Beispiel gefragt wird, was eine Sinus Funktion ist und wie diese aussieht, fällt es leicht, sich diese im Allgemeinen grafisch vorzustellen. 
+Wenn gefragt ist was natürliche Zahlen sind, können sich diese auch leicht anhand eines Zahlenstrahles oder in einem Koordinatensystem vorgestellt werden. 
+Jedoch wenn die Frage aufkommt, was  Komplexe Zahlen sind und wie sie aufgebaut sind, wird es schon schwerer sich diese bildlich darzustellen.
+Dieser Arbeit handelt von der Darstellung Komplexer Zahlen in einem Phasenportrait. Es wird zur Darstellung die offene Grafikbibliothek OpenGL genutzt.  
+Im Folgenden werden die Komplexen Zahlen sowie OpenGl erklärt und anschließend die Umsetzung in Phasenportraits. 
+
+
+\section{Komplexe Zahlen} \label{Com}
+\subsection{Allgemein}
+Komplexe Zahlen erweitern die möglichen Lösungen der 
+
+\section{OpenGL} \label{GL}
+\subsection{Allgemein}
+
+\subsection{Aufbau}
+
+\section{Domain Coloring}
+
+\subsection{Aufbau}
+\subsection{Implementierung}
+
+\section{fazit}
+
+\pagebreak
 
 \bibliographystyle{alpha}
 \bibliography{references}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.29)  13 OCT 2021 18:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.29)  22 OCT 2021 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -618,12 +618,18 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks65
 \verbatim@line=\toks66
 \verbatim@in@stream=\read4
-) (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+)
+\glswrite=\write4
+\glo@main@file=\write5
+\openout5 = `mm.glo'.
+
+Package glossaries Info: Writing glossary file mm.glo on input line 75.
+ (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 75.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 85.
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -633,20 +639,20 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 ) (d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.aux)
 \openout1 = `mm.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
 \c@lstlisting=\count332
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -667,79 +673,64 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 78.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 88.
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 78.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 88.
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 78.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 88.
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 78.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 88.
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 78.
+(Font)              <12> on input line 88.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 78.
+(Font)              <8> on input line 88.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 78.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
+(Font)              <6> on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
  (d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.tex:78: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.78 \maketitle
-               
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-[1
+) [1
 
 
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
-{d:/DownloaderProGraStuff/te/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout4 = `mm.ist'.
 
-LaTeX Warning: Reference `Com' on page 1 undefined on input line 84.
+{d:/DownloaderProGraStuff/te/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
+)
+\tf@toc=\write6
+\openout6 = `mm.toc'.
 
-[1]
-No file mm.toc.
-\tf@toc=\write4
-\openout4 = `mm.toc'.
-
-[2]
+ [1]
+No file mm.gls.
+[2] [3]
 No file mm.bbl.
-[3] (d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.aux) ) 
 Here is how much of TeX's memory you used:
- 22318 strings out of 478994
- 426309 string characters out of 5849632
- 934501 words of memory out of 5000000
- 39350 multiletter control sequences out of 15000+600000
- 437753 words of font info for 52 fonts, out of 8000000 for 9000
+ 22359 strings out of 478994
+ 427006 string characters out of 5849632
+ 933130 words of memory out of 5000000
+ 39384 multiletter control sequences out of 15000+600000
+ 444764 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,6n,102p,1072b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/DownloaderProGraStuff/te/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
-Output written on d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.pdf (4 pages, 104816 bytes).
+Output written on d:/studium/4.Semester/multimedia/Multimedia_KomplexeFunktionen/mm2.0/mm.pdf (4 pages, 111519 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
